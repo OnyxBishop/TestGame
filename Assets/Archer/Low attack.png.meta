@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 4a7f1dca208b0df45afe475e6360cebb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StandUp_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 395
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4968981, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9f03b66c73334bb256b23895ab085
+      internalID: 282827948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 267
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4936473, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4469843d71f748b790c1fe3551d80
+      internalID: 919019929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 267
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.60164887, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6321bda5b5c7fc4ba73a0430adcf02c
+      internalID: 263512721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 267
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5762367, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c737d2f5287c49a6a53bf82779390
+      internalID: 1045741783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 267
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5263536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311773da974708546a7282b37a4471c0
+      internalID: 889565303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 267
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5569238, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e62a6c1e19dc164287607b4b7a8d9ba
+      internalID: 974171282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 267
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5640393, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe7ab3a28063c45896cef2b849f2ce
+      internalID: 328460919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 267
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5711536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e530ff0c4e3284fb16e8f734451ed1
+      internalID: 946641713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_36
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 267
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.42453372, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced26158631159b4885e156eaf962806
+      internalID: 1325973432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 203
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.50635326, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0112264fabf5469d52f67c9d9a6c7
+      internalID: 1403017970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 203
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.564039, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63e19832be98f45957f77e4e0fcc7b
+      internalID: 1654148219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 203
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5640387, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee487c1b7b98541a68e449c53caf98
+      internalID: -1370512399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 203
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5640387, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf305781563d4e41b33af5d69bef50b
+      internalID: -2109763757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 203
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.53953046, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ef72c676578e4bbeb47d5c85774ce
+      internalID: 1178318567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 203
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5762362, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e190b3d9777e34eb0d26ea39723414
+      internalID: -2012935727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Low attack_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 203
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6080017, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcfcb0adc3bbd1408230b13e970394d
+      internalID: -1792541892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Duck_0: -1949278738
+      Duck_1: 2127883815
+      Duck_2: -1098181435
+      Low attack_0: -714578812
+      Low attack_1: -926561537
+      Low attack_10: -2027122682
+      Low attack_11: -2021032588
+      Low attack_12: 1449429240
+      Low attack_13: -2112305073
+      Low attack_14: -1402993788
+      Low attack_15: 248795902
+      Low attack_2: 710046252
+      Low attack_22: 1727118645
+      Low attack_23: -535187050
+      Low attack_24: -477814591
+      Low attack_25: 1628325156
+      Low attack_26: 1182018334
+      Low attack_27: -1477772053
+      Low attack_28: 662139802
+      Low attack_29: 919019929
+      Low attack_3: 643655606
+      Low attack_30: 263512721
+      Low attack_31: 1045741783
+      Low attack_32: 889565303
+      Low attack_33: 974171282
+      Low attack_34: 328460919
+      Low attack_35: 946641713
+      Low attack_36: 1325973432
+      Low attack_37: 1403017970
+      Low attack_38: 1654148219
+      Low attack_39: -1370512399
+      Low attack_4: 1785007332
+      Low attack_40: -2109763757
+      Low attack_41: 1178318567
+      Low attack_42: -2012935727
+      Low attack_43: -1792541892
+      Low attack_44: 1862306461
+      Low attack_45: 1756993052
+      Low attack_46: -147406282
+      Low attack_47: -623737037
+      Low attack_48: -781835499
+      Low attack_49: -1526178944
+      Low attack_5: -390116919
+      Low attack_50: -1697841669
+      Low attack_51: -647578638
+      Low attack_52: 1497271842
+      Low attack_53: 619284694
+      Low attack_6: 1069683417
+      Low attack_7: -87645356
+      Low attack_8: 849075492
+      Low attack_9: -519870217
+      StandUp_0: 734301698
+      StandUp_1: 2105685526
+      StandUp_2: 282827948
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

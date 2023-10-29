@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 4a49b48d25807714e935f158774bff40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Normal Attack_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.50366294, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce582fffa868a54db56624ab4da088d
+      internalID: -781646650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4506186, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a0688c81b50e4c82a7fb69fb1b997
+      internalID: 1663130877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 203
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4835901, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e773723f6097fd4f97dcd4cac0f5436
+      internalID: -306967968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 203
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4835901, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a268f14db5274394443ae6bdc8a7b
+      internalID: -1054757841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 203
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.49179444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311b5cc680078e4fbf22327ee2a7bdf
+      internalID: 1845798994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 203
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.36757314, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1fb378adacf514395b6aa7558f864f
+      internalID: 1359321072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 203
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4284777, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67075e65e10b341aeb464af8447f3a
+      internalID: -533184023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 203
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4839795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98714ffff4a16e64e91e8042c24443b7
+      internalID: 992526928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 139
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47915468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5488e1d8e9d410e44ad7f2c3a644c8a5
+      internalID: 2120590881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47339356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8eda7f7285ab04fa22e3b30184aebe
+      internalID: -691798862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal Attack_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 139
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4507288, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe89a41bc081d746928ef4a1f6543e2
+      internalID: 42105923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5108536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eec3de24b98e4469ae4f7737e0a776
+      internalID: -1158296541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47829163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c7df3ab5494a48a428a63f0428bf5
+      internalID: -609401371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 11
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3602124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8adf38b9b4c7a46b560e8989c27d62
+      internalID: -69664010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42731586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f82edf63ff34945958a5b03209375c
+      internalID: 2008164386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 11
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.47286376, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa483cd714dca1d4a8d048c8dc0e2a3c
+      internalID: -1809747612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loopAttack_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 11
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44572875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb3fe0d0a553ff469307da77ee49a1b
+      internalID: -715933211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Normal Attack_0: -781646650
+      Normal Attack_1: 1663130877
+      Normal Attack_10: 42105923
+      Normal Attack_11: -1469538131
+      Normal Attack_12: 777188226
+      Normal Attack_13: 1075706068
+      Normal Attack_14: 286754718
+      Normal Attack_15: 1123112609
+      Normal Attack_16: 587002355
+      Normal Attack_17: -932217668
+      Normal Attack_18: 530604100
+      Normal Attack_2: -306967968
+      Normal Attack_25: -589561133
+      Normal Attack_3: -1054757841
+      Normal Attack_4: 1845798994
+      Normal Attack_5: 1359321072
+      Normal Attack_6: -533184023
+      Normal Attack_7: 992526928
+      Normal Attack_8: 2120590881
+      Normal Attack_9: -691798862
+      loopAttack_19: -1158296541
+      loopAttack_20: -609401371
+      loopAttack_21: -69664010
+      loopAttack_22: 2008164386
+      loopAttack_23: -1809747612
+      loopAttack_24: -715933211
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

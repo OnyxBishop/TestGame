@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 18972ce63e8445f438042fcbd857d739
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: High Attack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 267
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3965897, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee99d268152a44fb137ba90b42f9de
+      internalID: 791625100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 267
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3445019, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0e70c988afb84b8943d0e6739915d
+      internalID: 1993162936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 267
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3725989, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6d9d434f50654b99d09ca60716853
+      internalID: -1335377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 267
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3713119, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467ed33ba036d747914d177d40a52c9
+      internalID: -944928555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 267
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.36079407, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3450ddc0a2066a4994a9713ac2aab4b
+      internalID: -1718591524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 267
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.37667394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d83f7a45b0ae4c48b1dd90edc7876dd
+      internalID: 575568503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 267
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34557495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16978948e82a34e4a8e0c624bf3966b6
+      internalID: -1312974254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 267
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.36595097, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82542674e126e4dbfadf7c90f42654
+      internalID: -1674744417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 203
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.39409402, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f4cec47f9c60a4eae68cb7d862cc8e
+      internalID: 2120269030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 203
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.39017147, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0feffb3f64618428d1ddcf2fa05c5c
+      internalID: 731724911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 203
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3901712, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16781e9a93c14f14690b573877d71797
+      internalID: -1370539555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 203
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3729126, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10826ebe5e93a34bb2500dc3541d3f3
+      internalID: 1280363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: High Attack_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 203
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.34310234, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606e36a0d631b04089f6fedbeabab72
+      internalID: 1435081231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      High Attack_0: -1060096096
+      High Attack_1: -1911658398
+      High Attack_10: -1335377053
+      High Attack_11: -944928555
+      High Attack_12: -1718591524
+      High Attack_13: 575568503
+      High Attack_14: -1312974254
+      High Attack_15: -1674744417
+      High Attack_16: 2120269030
+      High Attack_17: 731724911
+      High Attack_18: -1370539555
+      High Attack_19: 1280363769
+      High Attack_2: 1563224924
+      High Attack_20: 1435081231
+      High Attack_21: -667793861
+      High Attack_22: 518497310
+      High Attack_23: -1411743996
+      High Attack_24: -1128797070
+      High Attack_25: -2106534219
+      High Attack_26: 863396443
+      High Attack_27: -1502401046
+      High Attack_28: -1372329783
+      High Attack_29: 771694223
+      High Attack_3: 511992751
+      High Attack_30: 2093041831
+      High Attack_4: 1144491088
+      High Attack_5: 1271060980
+      High Attack_6: -1724131526
+      High Attack_7: -2052346186
+      High Attack_8: 791625100
+      High Attack_9: 1993162936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
